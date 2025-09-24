@@ -1,5 +1,3 @@
-# DBMS--SQL-programs
-this is where you can get DBMS SQL beginner / basic level programs!
 # DBMS--SQL-programs 📚💾
 
 Welcome to the **DBMS--SQL-programs** repository!  
